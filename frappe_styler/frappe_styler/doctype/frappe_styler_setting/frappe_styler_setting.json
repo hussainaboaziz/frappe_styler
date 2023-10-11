@@ -1,0 +1,338 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2023-10-03 10:31:53.033942",
+ "default_view": "List",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "dark_theme",
+  "primary_color",
+  "column_break_r4ho2",
+  "text_color",
+  "section_break_sikxv",
+  "background_color",
+  "column_break_ktml0",
+  "block_background_color",
+  "section_break_ufkdk",
+  "icon_fill_color",
+  "column_break_vfnbi",
+  "icon_stroke_color",
+  "section_break_obrk2",
+  "scrollbar_track_color",
+  "column_break_c78wg",
+  "scrollbar_thumb_color",
+  "section_break_e45he",
+  "avatar_frame_bg_color",
+  "section_break_fdelh",
+  "avatar_bg",
+  "column_break_6bvp6",
+  "navbar_background",
+  "section_break_cy9tg",
+  "light_theme",
+  "primary_color_s",
+  "column_break_rofpr",
+  "text_color_s",
+  "section_break_aouf9",
+  "background_color_s",
+  "column_break_quyoy",
+  "block_background_color_s",
+  "section_break_pjvgh",
+  "icon_fill_color_s",
+  "column_break_mjk25",
+  "icon_stroke_color_s",
+  "section_break_pl16p",
+  "scrollbar_track_color_s",
+  "column_break_ztebz",
+  "scrollbar_thumb_color_s",
+  "section_break_1hamm",
+  "avatar_frame_bg_color_s",
+  "section_break_wbity",
+  "avatar_bgs",
+  "column_break_n6oel",
+  "navbar_backgrounds",
+  "other_options",
+  "font_stack_type",
+  "column_break_2jiug",
+  "control_label_text_size",
+  "column_break_35bma",
+  "form_control_font_size",
+  "section_break_2pzws",
+  "border_radius"
+ ],
+ "fields": [
+  {
+   "bold": 1,
+   "fieldname": "dark_theme",
+   "fieldtype": "Section Break",
+   "label": "DARK THEME "
+  },
+  {
+   "fieldname": "primary_color",
+   "fieldtype": "Color",
+   "label": "Primary Color "
+  },
+  {
+   "fieldname": "column_break_r4ho2",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "text_color",
+   "fieldtype": "Color",
+   "label": "Text Color "
+  },
+  {
+   "fieldname": "section_break_sikxv",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "background_color",
+   "fieldtype": "Color",
+   "label": "Background Color"
+  },
+  {
+   "fieldname": "column_break_ktml0",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "block_background_color",
+   "fieldtype": "Color",
+   "label": "Block Background Color "
+  },
+  {
+   "fieldname": "section_break_ufkdk",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "icon_fill_color",
+   "fieldtype": "Color",
+   "label": "Icon Fill Color "
+  },
+  {
+   "fieldname": "column_break_vfnbi",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "icon_stroke_color",
+   "fieldtype": "Color",
+   "label": "Icon Stroke Color"
+  },
+  {
+   "fieldname": "section_break_obrk2",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "scrollbar_track_color",
+   "fieldtype": "Color",
+   "label": " Scrollbar Track Color"
+  },
+  {
+   "fieldname": "column_break_c78wg",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "scrollbar_thumb_color",
+   "fieldtype": "Color",
+   "label": "Scrollbar Thumb Color"
+  },
+  {
+   "fieldname": "section_break_e45he",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "avatar_frame_bg_color",
+   "fieldtype": "Color",
+   "label": "Avatar Background Color"
+  },
+  {
+   "fieldname": "section_break_fdelh",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "avatar_bg",
+   "fieldtype": "Color",
+   "label": "Avatar Icon Background"
+  },
+  {
+   "fieldname": "column_break_6bvp6",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "navbar_background",
+   "fieldtype": "Color",
+   "label": "Navbar Background"
+  },
+  {
+   "fieldname": "section_break_cy9tg",
+   "fieldtype": "Section Break"
+  },
+  {
+   "bold": 1,
+   "fieldname": "light_theme",
+   "fieldtype": "Section Break",
+   "label": "LIGHT THEME"
+  },
+  {
+   "fieldname": "primary_color_s",
+   "fieldtype": "Color",
+   "label": "Primary Color "
+  },
+  {
+   "fieldname": "column_break_rofpr",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "text_color_s",
+   "fieldtype": "Color",
+   "label": "Text Color"
+  },
+  {
+   "fieldname": "section_break_aouf9",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "background_color_s",
+   "fieldtype": "Color",
+   "label": "Background Color"
+  },
+  {
+   "fieldname": "column_break_quyoy",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "block_background_color_s",
+   "fieldtype": "Color",
+   "label": "Block Background Color"
+  },
+  {
+   "fieldname": "section_break_pjvgh",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "icon_fill_color_s",
+   "fieldtype": "Color",
+   "label": "Icon Fill Color"
+  },
+  {
+   "fieldname": "column_break_mjk25",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "icon_stroke_color_s",
+   "fieldtype": "Color",
+   "label": "Icon Stroke Color"
+  },
+  {
+   "fieldname": "section_break_pl16p",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "scrollbar_track_color_s",
+   "fieldtype": "Color",
+   "label": "Scrollbar Track Color"
+  },
+  {
+   "fieldname": "column_break_ztebz",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "scrollbar_thumb_color_s",
+   "fieldtype": "Color",
+   "label": "Scrollbar Thumb Color"
+  },
+  {
+   "fieldname": "section_break_1hamm",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "avatar_frame_bg_color_s",
+   "fieldtype": "Color",
+   "label": "Avatar Background Color"
+  },
+  {
+   "fieldname": "section_break_wbity",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "avatar_bgs",
+   "fieldtype": "Color",
+   "label": "Avatar Icon Background"
+  },
+  {
+   "fieldname": "column_break_n6oel",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "navbar_backgrounds",
+   "fieldtype": "Color",
+   "label": "Navbar Background"
+  },
+  {
+   "bold": 1,
+   "fieldname": "other_options",
+   "fieldtype": "Section Break",
+   "label": "Other Options"
+  },
+  {
+   "fieldname": "font_stack_type",
+   "fieldtype": "Select",
+   "label": "Font Stack Type",
+   "options": "Helvetica\nCalibri"
+  },
+  {
+   "fieldname": "column_break_2jiug",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "control_label_text_size",
+   "fieldtype": "Select",
+   "label": "Control Label Text Size",
+   "options": "Small\nMedium\nLarge"
+  },
+  {
+   "fieldname": "column_break_35bma",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "form_control_font_size",
+   "fieldtype": "Select",
+   "label": "Form Control Font Size",
+   "options": "Small\nMedium\nLarge"
+  },
+  {
+   "fieldname": "section_break_2pzws",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "border_radius",
+   "fieldtype": "Select",
+   "label": "Border Radius",
+   "options": "0px\n4px\n6px\n10px\n15px"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2023-10-11 10:25:05.350321",
+ "modified_by": "Administrator",
+ "module": "frappe styler",
+ "name": "Frappe Styler Setting",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1
+}
