@@ -16,5 +16,13 @@ frappe_styler/config/__init__.py
 frappe_styler/config/desktop.py
 frappe_styler/config/docs.py
 frappe_styler/frappe_styler/__init__.py
+frappe_styler/frappe_styler/doctype/__init__.py
+frappe_styler/frappe_styler/doctype/frappe_styler_setting/__init__.py
+frappe_styler/frappe_styler/doctype/frappe_styler_setting/frappe_styler_setting.js
+frappe_styler/frappe_styler/doctype/frappe_styler_setting/frappe_styler_setting.json
+frappe_styler/frappe_styler/doctype/frappe_styler_setting/frappe_styler_setting.py
+frappe_styler/frappe_styler/doctype/frappe_styler_setting/test_frappe_styler_setting.py
+frappe_styler/public/js/frappe_styler.js
 frappe_styler/templates/__init__.py
 frappe_styler/templates/pages/__init__.py
+frappe_styler/www/__init__.py

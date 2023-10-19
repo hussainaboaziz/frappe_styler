@@ -5,5 +5,5 @@
 from frappe.tests.utils import FrappeTestCase
 
 
-class TestFrappeStylerSetting(FrappeTestCase):
+class TestFrappeStylerSettings(FrappeTestCase):
 	pass

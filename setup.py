@@ -10,7 +10,7 @@ setup(
 	name="frappe_styler",
 	version=version,
 	description="theme ",
-	author="idara",
+	author="Hussainaboaziz",
 	author_email="theme@gmail.com",
 	packages=find_packages(),
 	zip_safe=False,

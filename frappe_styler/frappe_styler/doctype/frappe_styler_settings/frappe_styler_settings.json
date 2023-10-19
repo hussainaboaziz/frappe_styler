@@ -29,7 +29,6 @@
   "avatar_bg",
   "column_break_6bvp6",
   "navbar_background",
-  "section_break_cy9tg",
   "light_theme",
   "primary_color_s",
   "column_break_rofpr",
@@ -59,14 +58,30 @@
   "column_break_35bma",
   "form_control_font_size",
   "section_break_2pzws",
-  "border_radius"
+  "border_radius",
+  "help_section",
+  "link_name",
+  "column_break_p4fxz",
+  "link_url",
+  "column_break_xlrzv",
+  "link_name2",
+  "column_break_ghspa",
+  "link_url2",
+  "section_break_9cqv9",
+  "link_name3",
+  "column_break_tvccy",
+  "link_url3",
+  "column_break_mg7ax",
+  "link_name6",
+  "column_break_bhgj4",
+  "link_url6"
  ],
  "fields": [
   {
    "bold": 1,
    "fieldname": "dark_theme",
    "fieldtype": "Section Break",
-   "label": "DARK THEME "
+   "label": "Dark Theme"
   },
   {
    "fieldname": "primary_color",
@@ -164,14 +179,10 @@
    "label": "Navbar Background"
   },
   {
-   "fieldname": "section_break_cy9tg",
-   "fieldtype": "Section Break"
-  },
-  {
    "bold": 1,
    "fieldname": "light_theme",
    "fieldtype": "Section Break",
-   "label": "LIGHT THEME"
+   "label": "Light Theme"
   },
   {
    "fieldname": "primary_color_s",
@@ -278,7 +289,7 @@
    "fieldname": "font_stack_type",
    "fieldtype": "Select",
    "label": "Font Stack Type",
-   "options": "Helvetica\nCalibri"
+   "options": "Helvetica\nCalibri\nAlmarai"
   },
   {
    "fieldname": "column_break_2jiug",
@@ -309,15 +320,88 @@
    "fieldtype": "Select",
    "label": "Border Radius",
    "options": "0px\n4px\n6px\n10px\n15px"
+  },
+  {
+   "fieldname": "help_section",
+   "fieldtype": "Section Break",
+   "label": "HELP SECTION"
+  },
+  {
+   "fieldname": "link_name",
+   "fieldtype": "Data",
+   "label": "Documentation Name"
+  },
+  {
+   "fieldname": "column_break_p4fxz",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "link_url",
+   "fieldtype": "Small Text",
+   "label": "Documentation Url"
+  },
+  {
+   "fieldname": "link_name2",
+   "fieldtype": "Data",
+   "label": "User Form Name"
+  },
+  {
+   "fieldname": "column_break_ghspa",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "link_url2",
+   "fieldtype": "Small Text",
+   "label": "User Form Url"
+  },
+  {
+   "fieldname": "section_break_9cqv9",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "link_name3",
+   "fieldtype": "Data",
+   "label": "Repport an Issue Name"
+  },
+  {
+   "fieldname": "column_break_tvccy",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "link_url3",
+   "fieldtype": "Small Text",
+   "label": "Repport an Issue  Url"
+  },
+  {
+   "fieldname": "column_break_bhgj4",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_xlrzv",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "column_break_mg7ax",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "link_name6",
+   "fieldtype": "Data",
+   "label": "Frappe Support Name"
+  },
+  {
+   "fieldname": "link_url6",
+   "fieldtype": "Small Text",
+   "label": "Frappe Support Url"
   }
  ],
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2023-10-11 10:25:05.350321",
+ "modified": "2023-10-18 00:45:38.238552",
  "modified_by": "Administrator",
  "module": "frappe styler",
- "name": "Frappe Styler Setting",
+ "name": "Frappe Styler Settings",
  "owner": "Administrator",
  "permissions": [
   {
